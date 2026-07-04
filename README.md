@@ -24,11 +24,8 @@ I believe in **learning by building**, solving real-world problems, and sharing 
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Karantiger/Karantiger/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</div>
+<div align="center">   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
 
-> Note: The snake animation requires a GitHub Actions workflow that generates the SVG inside the `output` branch.
 
 ---
 
@@ -67,18 +64,7 @@ I believe in **learning by building**, solving real-world problems, and sharing 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
-## 📱 Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-## 🗄️ Database & Backend
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ## 🎨 Design Tools
 
@@ -137,54 +123,6 @@ I believe in **learning by building**, solving real-world problems, and sharing 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Karantiger&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Project Name 1
-
-> Add a short description of your best project here.
-
-**Tech Stack:** React • Next.js • Supabase
-
-* 🔗 Live Demo: Add your deployment link
-* 💻 Repository: Add your repository link
-
-### 📱 Project Name 2
-
-> Add a short description explaining what problem the project solves.
-
-**Tech Stack:** React Native • JavaScript • API
-
-* 🔗 Live Demo: Add your deployment link
-* 💻 Repository: Add your repository link
-
-### ☕ Java DSA Repository
-
-> A collection of Data Structures and Algorithms problems solved using Java.
-
-**Topics:**
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Recursion
-* Sorting & Searching
-* Trees
-* Graphs
-* Dynamic Programming
-
----
-
 ## 🎯 Current Goals
 
 * 📚 Master Data Structures & Algorithms using Java
@@ -220,9 +158,5 @@ I'm always interested in discussing:
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Karantiger\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)
-
-**Show some ❤️ by starring my repositories!**
 
 </div>
