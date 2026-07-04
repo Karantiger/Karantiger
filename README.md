@@ -12,9 +12,8 @@ I believe in **learning by building**, solving real-world problems, and sharing 
 
 ## 👨‍💻 About Me
 
-* 🔭 I'm currently working on **Full Stack Web Development Projects**
 * 🌱 I'm currently learning **Java, Data Structures & Algorithms**
-* 💻 I enjoy building applications using **React, Next.js, MySQL, and Supabase**
+* 💻 I enjoy building applications using **Javascript, React, MySQL and Supabase**
 * 🤝 Open to **Collaboration, Freelance Projects, and Open Source Contributions**
 * 📫 Reach me at: **[karantiger9369@gmail.com](mailto:karantiger9369@gmail.com)**
 * 😄 Pronouns / Developer Name: **Karantiger**
