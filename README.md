@@ -83,8 +83,6 @@ I believe in **learning by building**, solving real-world problems, and sharing 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karantiger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karantiger&theme=tokyonight&hide_border=true" />
 
 </div>
